@@ -69,4 +69,7 @@ int main() {
     printf("Pontos Turisticos: %d\n", pontosTuristicos2);
 
     return 0;
+
+    printf("novo commit\n");
+
 }
